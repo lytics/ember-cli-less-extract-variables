@@ -1,0 +1,1 @@
+# ember-cli-less-extract-variables
